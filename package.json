@@ -1,0 +1,27 @@
+{
+    "name": "edulib",
+    "version": "1.0.0",
+    "description": "TypeScript library for educational elements",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "/dist"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/QZEducation/edulib.git"
+    },
+    "keywords": [
+        "TypeScript",
+        "SVG"
+    ],
+    "author": "QZEdu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/QZEducation/edulib/issues"
+    },
+    "homepage": "https://github.com/QZEducation/edulib#readme"
+}
