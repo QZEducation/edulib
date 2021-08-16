@@ -1,5 +1,5 @@
 {
-    "name": "edulib",
+    "name": "@yangdangfu/edulib",
     "version": "1.0.0",
     "description": "TypeScript library for educational elements",
     "main": "dist/index.js",
